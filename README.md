@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JacobWillkomm](https://github.com/JacobWillkomm)
 
-- 📫 How to reach me **jacobwillkomm@gmail.com**
+- 📫 Reach me at **jacobwillkomm@gmail.com**
 
 - 📄 Know about my experiences [https://jacobwillkomm.netlify.app/](https://jacobwillkomm.netlify.app/)
 
