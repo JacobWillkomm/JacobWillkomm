@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **react & Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JacobWillkomm](https://github.com/JacobWillkomm)
-
 - 📫 Reach me at **jacobwillkomm@gmail.com**
 
 - 📄 Know about my experiences [https://jacobwillkomm.netlify.app/](https://jacobwillkomm.netlify.app/)
