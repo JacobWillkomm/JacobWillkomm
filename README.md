@@ -5,7 +5,7 @@
 
 - 📫 Reach me at **jacobwillkomm@gmail.com**
 
-- 📄 Know about my experiences [https://jacobwillkomm.netlify.app/](https://jacobwillkomm.netlify.app/)
+- 📄 Hear about my experiences [https://jacobwillkomm.netlify.app/](https://jacobwillkomm.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
